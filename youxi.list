@@ -13,3 +13,5 @@ host-suffix, pay.mgapex.com, 游戏加速
 host-suffix, lobby.mgapex.com, 游戏加速
 host-suffix, itop.mgapex.com, 游戏加速
 host-suffix, tdm.mgapex.com, 游戏加速
+# > Apex hk
+host-suffix, lobby-hk.apexmfps.com, 游戏加速
